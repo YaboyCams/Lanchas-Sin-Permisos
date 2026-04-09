@@ -1,5 +1,10 @@
 # Ejercicio #6 - Tours con Micronaut + React
 
+# Diseño
+## Estudiantes:
+### Jose Pablo Chavarro Conde
+### Camilo Allon Quesada
+
 Implementacion enfocada solo en el microservicio de `tours` y un frontend que lo consume.
 
 ## 1. Estructura del monorepo
